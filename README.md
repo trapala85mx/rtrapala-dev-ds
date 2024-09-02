@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtrapala-dev-ds
-- 👀 I’m interested in Web Scraping, Data Science adn Backend to give acces to my data
-- 🌱 I’m currently learning Web Scraping to extract information for a project on my own
-- 💞️ I’m looking to collaborate on projects related to this subjects, overall, Web Scraping (i found i like it a lot)
+- 👀 I’m interested in Trading, Web Scraping, and Backend with Python
+- 🌱 I’m currently learning and developing my trading bot
+- 💞️ I’m looking to collaborate, for now, in projects related to trading.
 - 📫 How to reach me?, by this media or rtrapa_dev_de@gmail.com
 
 <!---
